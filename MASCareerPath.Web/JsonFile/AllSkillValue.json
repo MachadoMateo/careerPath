@@ -1,0 +1,42 @@
+﻿{
+  "name": "Development",
+  "skillsValues": [
+    {
+      "seniority": "Trainee",
+      "skill": "Autogestion",
+      "value": {
+        "none": 0,
+        "basic": 1,
+        "basic-Intermediate": 2,
+        "intermediate": 3,
+        "intermediate-Advanced": 4,
+        "advanced": 5
+      }
+    },
+    {
+      "seniority": "Junior",
+      "skill": "leadership",
+      "value": {
+        "none": 0,
+        "basic": 1,
+        "basic-Intermediate": 2,
+        "intermediate": 3,
+        "intermediate-Advanced": 4,
+        "advanced": 5
+      }
+    },
+    {
+      "seniority": "Mid-Senior",
+      "skill": "Communication-Assertive",
+      "value": {
+        "none": 0,
+        "basic": 1,
+        "basic-Intermediate": 2,
+        "intermediate": 3,
+        "intermediate-Advanced": 4,
+        "advanced": 5
+      }
+    }
+  ]
+
+}

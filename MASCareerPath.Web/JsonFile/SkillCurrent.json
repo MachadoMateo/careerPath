@@ -1,0 +1,79 @@
+﻿{       
+	"role": "Development :",
+
+	"requirement": [
+		{
+			"id": 1,
+			"name": "Years of experience in Development"
+		},
+		{
+			"id": 2,
+			"name": "Years of experience in Agile methodology"
+		},
+		{
+			"id": 3,
+			"name": "Certification or studies related to the role"
+		},
+		{
+			"id": 4,
+			"name": "English language"
+		},
+		{
+			"id": 5,
+			"name": "Meet Tech Skills (Go to Tech Skills list)"
+		},
+		{
+			"id": 6,
+			"name": "Programming languages that you can handle at a basic level"
+		},
+		{
+			"id": 7,
+			"name": "Handle automation types (Web/UI, API, Mobile)"
+		}
+	],
+
+
+	"softSkill": [
+		{"id":  1,
+		 "name": "Self-management"},
+		{"id":  2,
+		 "name": "Leadership"},
+		{"id":  3,
+		 "name": "Assertive communication"},
+		{"id" : 4,
+		 "name": "Learning potential"},
+		{"id":  5,
+		 "name": "Effectiveness"},
+		{"id":  6,
+		 "name": "Delivery compliance"},
+		{"id" : 7,
+			"name": "Complexity management"}
+	],
+	
+
+	"techSkill": [
+		{ "id":  1,
+			"name": "OOP" },
+		{ "id":  2,
+			"name": "Patterns" },
+		{ "id":  3,
+			"name": "Unit Testing" },
+		{ "id" : 4,
+			"name": "Backend language (Java,.NET,Node)" },
+		{ "id":  5,
+			"name": "Frontend language (Angular, React,...)" },
+		{ "id" : 6,
+			"name": "Code Repo (GIT, Azure Devops, etc.)" },
+		{ "id":  7,
+			"name": "UI/UX" },
+		{ "id":  8,
+			"name": "Mobile (Ionic/React Native,...)" },
+		{ "id" : 9,
+			"name": "Networking (REST, SOAP, ...)" },
+		{ "id" : 10,
+			"name": "DB (SQL, Oracle)" }
+	]
+
+         
+
+}
